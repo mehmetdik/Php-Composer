@@ -13,7 +13,7 @@ Geliştirdiğimiz projelerimizde birçok kütüphaneye ihtiyaç duyarız ve bu k
     curl -sS https://getcomposer.org/installer | php
     ```
 - Curl yüklü değil ise;
-- 
+ 
     ```
     php -r "readfile('https://getcomposer.org/installer');" | php
     ```
