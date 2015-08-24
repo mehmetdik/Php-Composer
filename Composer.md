@@ -54,7 +54,7 @@ Dosyanın içine baktığımızda **require** anahtar kelimesini görüyoruz bu 
 
 ### Vendor
 
-![vendor](https://mehmetdik2013.files.wordpress.com/2015/08/screenshot-from-2015-08-24-160940.png?w=300&h=96)
+![vendor](https://mehmetdik2013.files.wordpress.com/2015/08/a.png?w=300&h=161)
 
 Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload dosyası bulunmaktadır.Composer çalıştırıldığında otomatik olarak oluşturulur.
 
