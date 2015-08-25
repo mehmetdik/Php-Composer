@@ -76,7 +76,7 @@ php index.php
 
 Projenin içerisine baktığımız da logs adında bir klasör daha oluştuğunu görüyoruz.Logs dosyasının içinde de logdosyam.log adında bir dosya oluştuğunu görüyoruz bu dosyayı açalım bakalım içinde ne var;
 
-
+![log](https://github.com/mehmetdik/Php-Composer/blob/master/photo/log.png)
 
 
 
