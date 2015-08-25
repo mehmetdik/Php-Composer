@@ -68,6 +68,16 @@ Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload 
 
 ![icerik](https://github.com/mehmetdik/Php-Composer/blob/master/photo/indexiçerik.png)
 
+Şimdi index.php içine yazdığımız kodu çalıştıralım bakalım kütüphaneyi kullanabiliyor muyuz.Konsol'a aşağıdaki komutu yazalım.
+
+```
+php index.php
+```
+
+Projenin içerisine baktığımız da logs adında bir klasör daha oluştuğunu görüyoruz.Logs dosyasının içinde de logdosyam.log adında bir dosya oluştuğunu görüyoruz bu dosyayı açalım bakalım içinde ne var;
+
+
+
 
 
 
