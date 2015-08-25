@@ -79,7 +79,7 @@ Projenin içerisine baktığımız da logs adında bir klasör daha oluştuğunu
 ![log](https://github.com/mehmetdik/Php-Composer/blob/master/photo/log.png)
 
 
-
+Loglarımızın bizim istediğimiz gibi tutulup txt dosyasına yazıldığını, yüklediğimiz monolog kütüphanesinin sorunsuz çalıştığını ,composerın bize nasıl yardımcı olduğunu işimizi kolaylaştırdığını görmüş olduk.
 
 
 
