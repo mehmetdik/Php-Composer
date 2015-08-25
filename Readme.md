@@ -43,9 +43,11 @@ composer require monolog/monolog
 ```
 ![Monolog](https://github.com/mehmetdik/Php-Composer/blob/master/photo/monolog.png)
 
-Composer'a monolog kütüphanesine ihtiyacımız olduğunu söyledik composer'da projemize monolog kütüphanesini eklemiş oldu.Komut çalıştıktan sonra uygulamamızın içine bakıyoruz composer.json ve Vendor adında iki dosyanın oluştuğunu görüyoruz.
+Composer'a monolog kütüphanesine ihtiyacımız olduğunu söyledik composer'da projemize monolog kütüphanesini eklemiş oldu.Komut çalıştıktan sonra uygulamamızın içine bakıyoruz ve aşağıdaki dosyaların oluştuğunu görüyoruz.
 
 ![file](https://github.com/mehmetdik/Php-Composer/blob/master/photo/m.png)
+
+composer.json dosyasını inceleyelim.
 
 ### composer.json dosyası;
 ```
@@ -59,9 +61,10 @@ Dosyanın içine baktığımızda **require** anahtar kelimesini görüyoruz bu 
 
 ### Vendor
 
-![vendor](https://mehmetdik2013.files.wordpress.com/2015/08/a.png?w=621&h=333)
+![vendor](https://github.com/mehmetdik/Php-Composer/blob/master/photo/vendor.png)
 
-Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload dosyası bulunmaktadır.Composer çalıştırıldığında otomatik olarak oluşturulur.
+Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload dosyası bulunmaktadır.Composer çalıştırıldığında otomatik olarak oluşturulur.vendor klasörüne baktığınız da birde autoload.php isminde bir dosya olduğunu gördük bu dosya yardımıyla projelerimizde kütüphaneleri kullanabileceğiz.Şimdi bu yüklediğimiz dosyaları yani kütüphaneyi projemizin içinde nasıl kullanacağımızı görelim.Şimdi index.php adında bir dosya oluşturalım.
+
 
 
 
