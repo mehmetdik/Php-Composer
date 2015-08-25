@@ -41,6 +41,8 @@ Bizim bir projemiz olsun o projenin içine monolog kütüphanesini nasıl yükle
 ```
 composer require monolog/monolog
 ```
+![Monolog](https://github.com/mehmetdik/Php-Composer/blob/master/photo/monolog.png)
+
 Composer'a monolog kütüphanesine ihtiyacımız olduğunu söyledik composer'da projemize monolog kütüphanesini eklemiş oldu.
 Oluşan iki dosyamız var composer.json ve Vendor bunları inceleyelim.
 
