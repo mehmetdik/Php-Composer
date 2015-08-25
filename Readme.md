@@ -63,7 +63,10 @@ Dosyanın içine baktığımızda **require** anahtar kelimesini görüyoruz bu 
 
 ![vendor](https://github.com/mehmetdik/Php-Composer/blob/master/photo/vendor.png)
 
-Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload dosyası bulunmaktadır.Composer çalıştırıldığında otomatik olarak oluşturulur.vendor klasörüne baktığınız da birde autoload.php isminde bir dosya olduğunu gördük bu dosya yardımıyla projelerimizde kütüphaneleri kullanabileceğiz.Şimdi bu yüklediğimiz dosyaları yani kütüphaneyi projemizin içinde nasıl kullanacağımızı görelim.Şimdi index.php adında bir dosya oluşturalım.
+Bu klasörde composer tarafından indirilen sınıflar ve composer'ın autoload dosyası bulunmaktadır.Composer çalıştırıldığında otomatik olarak oluşturulur.vendor klasörüne baktığınız da birde autoload.php isminde bir dosya olduğunu gördük bu dosya yardımıyla projelerimizde kütüphaneleri kullanabileceğiz.Şimdi bu yüklediğimiz dosyaları yani kütüphaneyi projemizin içinde nasıl kullanacağımızı görelim.
+Şimdi index.php adında bir dosya oluşturalım.index.php dosyasının içine aşağıdaki kodları yazalım.
+
+![icerik](https://github.com/mehmetdik/Php-Composer/blob/master/photo/indexiçerik.png)
 
 
 
