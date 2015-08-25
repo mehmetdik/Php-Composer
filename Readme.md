@@ -37,14 +37,15 @@ php composer.phar update
 ![Update](https://github.com/mehmetdik/Php-Composer/blob/master/photo/update.png)
 
 # Nasıl Kullanılır ?
-Bizim bir projemiz olsun o projenin içine monolog kütüphanesini nasıl yükleyeceğimizi görelim.Öncelikle projemizin içine girip şu komutu çalıştıralım
+App adında bir projemiz olsun bu projede loglama aracına ihtiyacımız olsun bizde bu ihtiyacımızı karşılaması için monolog kütüphanesini kullanalım.Monolog kütüphanesinin nasıl yükleneceğini görelim.Öncelikle projemizin içine girip şu komutu çalıştıralım
 ```
 composer require monolog/monolog
 ```
 ![Monolog](https://github.com/mehmetdik/Php-Composer/blob/master/photo/monolog.png)
 
-Composer'a monolog kütüphanesine ihtiyacımız olduğunu söyledik composer'da projemize monolog kütüphanesini eklemiş oldu.
-Oluşan iki dosyamız var composer.json ve Vendor bunları inceleyelim.
+Composer'a monolog kütüphanesine ihtiyacımız olduğunu söyledik composer'da projemize monolog kütüphanesini eklemiş oldu.Komut çalıştıktan sonra uygulamamızın içine bakıyoruz composer.json ve Vendor adında iki dosyanın oluştuğunu görüyoruz.
+
+![file](https://github.com/mehmetdik/Php-Composer/blob/master/photo/m.png)
 
 ### composer.json dosyası;
 ```
