@@ -34,7 +34,7 @@ Windows'a Composer yüklemek için
 php composer.phar update
 ```
 
-![Update](https://github.com/mehmetdik/Php-Composer/tree/master/photo/update.png)
+![Update](https://github.com/mehmetdik/Php-Composer/blob/master/photo/update.png)
 
 # Nasıl Kullanılır ?
 Bizim bir projemiz olsun o projenin içine monolog kütüphanesini nasıl yükleyeceğimizi görelim.Öncelikle projemizin içine girip şu komutu çalıştıralım
